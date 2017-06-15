@@ -1,1 +1,1 @@
-Push and pull images from application
+Push and pull images from NodeJS application
